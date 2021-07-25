@@ -1,3 +1,5 @@
+
+/* Carousel section styles */
 .top-carousel-section{
     background-color: #FEEAE9;
 }
@@ -8,6 +10,9 @@
     background-color: #FF136F;
     color: white;
 }
+
+/* category section styles */
+
 .watch-category{
     background-color: #FF9C35;
     color: white;
@@ -21,4 +26,17 @@
 .shoe-category{
     background-color: #4289FF ;
     color: white;
+}
+
+/* Shoes Section Styles */
+.shoes-section, .bag-section{
+    background-color: #F4F4F4;
+}
+
+.see-all{
+    color: #FF9D00;
+}
+
+.text-center{
+    text-align: center;
 }
